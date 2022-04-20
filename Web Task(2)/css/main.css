@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.text {
+
+    margin-left: 25%;
+    margin-right: 10%;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+.img {
+    vertical-align: middle;
+    max-width: 212px;
+    max-height: 212px;
+}
+
+.paragraph {
+    margin-left: 25%;
+    margin-right: 10%;
+}
+
+#menu {
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 100%;
+    background-color: #bd5d38;
+}
+
+.ul {
+    display: block;
+    padding-left: 0;
+    margin-right: 0;
+    list-style: none;
+}
+
+.param {
+    margin-left: 25%;
+    margin-right: 10%;
+    color: grey;
+}
